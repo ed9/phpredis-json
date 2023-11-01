@@ -1,5 +1,5 @@
 {
-  "name": "averias/phpredis-json",
+  "name": "ed9/phpredis-json",
   "description": "A PHP client for RedisJSON module using phpredis extension",
   "homepage": "https://github.com/averias/phpredis-json",
   "keywords": [
